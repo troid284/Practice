@@ -1,4 +1,6 @@
 if __name__ == '__main__':
+    
+    print("Enter number below: ")
     n = int(input())
 
     i = 1
